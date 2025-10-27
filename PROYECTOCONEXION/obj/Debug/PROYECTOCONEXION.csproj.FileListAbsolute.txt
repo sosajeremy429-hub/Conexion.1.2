@@ -1,0 +1,15 @@
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\bin\Debug\PROYECTOCONEXION.exe.config
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\bin\Debug\PROYECTOCONEXION.exe
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\bin\Debug\PROYECTOCONEXION.pdb
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.csproj.AssemblyReference.cache
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.Properties.Resources.resources
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.csproj.GenerateResource.cache
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.csproj.CoreCompileInputs.cache
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.exe
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.pdb
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.exe.config
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.Categorias.resources
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.Clientes.resources
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.Menu.resources
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.Proveedores.resources
+C:\Users\joend\source\repos\PROYECTOCONEXION\PROYECTOCONEXION\obj\Debug\PROYECTOCONEXION.Productos.resources
